@@ -1,4 +1,8 @@
-### Hi there 👋
+###  ✨ Hola, mi nombre es Rocio   ✨
+![cat](https://media.giphy.com/media/HYpZKsyLOn1ks/giphy.gif)
+
+
+
 
 <!--
 **Alleria21/Alleria21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
